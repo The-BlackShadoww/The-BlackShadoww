@@ -72,9 +72,8 @@ I've shipped real websites and landing pages for clients across **Real Estate, A
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=The-BlackShadoww&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=The-BlackShadoww&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=The-BlackShadoww&theme=merko&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=The-BlackShadoww&theme=merko&hide_border=true)
 
 </div>
 
