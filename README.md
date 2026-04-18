@@ -13,11 +13,11 @@
 
 ## Who I Am
 
-I'm a Front-End Developer who uses **React & Next.js** to build fast, scalable, and production-ready web experiences — and I don't just convert Figma files, I build complete front-ends from the ground up.
+I am a React/Next.js Front-end developer, building complete front-ends from the ground up with React and Next.js — from design to fast, scalable, and production-ready web experiences, and helping people build products that actually make a difference.
 
-Here's what makes me a little different: I studied **Psychology at the University of Dhaka**. That means I think about the humans using the product, not just the code powering it. Better UX instincts, built-in.
+I Studied Psychology at the University of Dhaka. Turns out understanding how humans think makes you a significantly better developer.
 
-I've shipped real websites and landing pages for clients across **Real Estate, AI SaaS, and Enterprise Web Apps** — handling everything from pixel-perfect UI to full client-side API integration.
+I've shipped real websites and landing pages for clients across **Textile, Real Estate, AI SaaS, and Enterprise Web Apps** — handling everything from pixel-perfect UI to full client-side API integration.
 
 ---
 
@@ -60,10 +60,11 @@ I've shipped real websites and landing pages for clients across **Real Estate, A
 ![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
