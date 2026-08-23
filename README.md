@@ -1,8 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="The-BlackShadoww's GitHub profile" src="dark_mode.svg" />
-</picture>
+<img width="1029" height="440" alt="dark_mode" src="https://github.com/user-attachments/assets/380c6bfe-fe01-4356-aae8-f355bc6f4893" />
+
+
 <div align="center">
 
 # Hey, I'm Ashikur Rahman 👋
