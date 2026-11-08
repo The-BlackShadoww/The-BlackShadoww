@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  I build the React screens people click and the Node.js services behind them
+  I build web products end to end, from the interface people see to the systems behind it.
 </p>
 
 <p align="center"><img src="assets/badges/open.svg" alt="Open to full-time roles" /></p>
