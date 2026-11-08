@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Ashikur Rahman, full-stack TypeScript developer">
+<style>
+  .mono{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+  .sans{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}
+  .line{opacity:0;animation:cycle 12s infinite}
+  .l2{animation-delay:4s}.l3{animation-delay:8s}
+  @keyframes cycle{0%{opacity:0}3%{opacity:1}30%{opacity:1}33%{opacity:0}100%{opacity:0}}
+  .cursor{animation:blink 1s steps(1) infinite}
+  @keyframes blink{50%{opacity:0}}
+  @media (prefers-reduced-motion: reduce){.line{animation:none}.l1{opacity:1}.cursor{animation:none}}
+</style>
+<defs>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#1f1f22" stroke-width="1"/></pattern>
+  <linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#000" stop-opacity="1"/><stop offset=".55" stop-color="#000" stop-opacity=".6"/><stop offset="1" stop-color="#000" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1200" height="300" rx="16" fill="#000"/>
+<rect width="1200" height="300" rx="16" fill="url(#grid)"/>
+<rect width="1200" height="300" rx="16" fill="url(#fade)"/>
+<rect x="56" y="52" width="10" height="10" fill="#ff0000"/>
+<text x="76" y="62" class="mono" font-size="15" fill="#a6a6af">~/ashikur-rahman · Dhaka, Bangladesh · UTC+6</text>
+<text x="54" y="138" class="sans" font-size="64" font-weight="700" fill="#fafafa" letter-spacing="-1.5">Ashikur Rahman</text>
+<text x="56" y="184" class="sans" font-size="28" fill="#a6a6af"><tspan fill="#ff0000" font-weight="600">Full-stack</tspan> TypeScript developer</text>
+<g class="mono" font-size="18" fill="#fafafa">
+  <text x="56" y="240" class="line l1"><tspan fill="#ff0000">&gt;</tspan> building Webflow apps at FlowAppz</text>
+  <text x="56" y="240" class="line l2"><tspan fill="#ff0000">&gt;</tspan> React · Node.js · PostgreSQL · Redis · BullMQ</text>
+  <text x="56" y="240" class="line l3"><tspan fill="#ff0000">&gt;</tspan> open to full-time full-stack roles</text>
+</g>
+
+<rect x="870" y="60" width="13" height="13" fill="#2f2f2f"/><rect x="1150" y="90" width="13" height="13" fill="#ff0000"/><rect x="1110" y="230" width="13" height="13" fill="#2f2f2f"/><rect x="890" y="250" width="13" height="13" fill="#2f2f2f"/><rect x="1160" y="200" width="13" height="13" fill="#2f2f2f"/><rect x="860" y="170" width="13" height="13" fill="#ff0000"/>
+<rect x="972" y="70" width="13" height="13" fill="#fafafa"/><rect x="986" y="70" width="13" height="13" fill="#fafafa"/><rect x="1000" y="70" width="13" height="13" fill="#fafafa"/><rect x="1042" y="70" width="13" height="13" fill="#fafafa"/><rect x="1056" y="70" width="13" height="13" fill="#fafafa"/><rect x="1070" y="70" width="13" height="13" fill="#fafafa"/><rect x="1084" y="70" width="13" height="13" fill="#fafafa"/><rect x="958" y="84" width="13" height="13" fill="#fafafa"/><rect x="1014" y="84" width="13" height="13" fill="#fafafa"/><rect x="1042" y="84" width="13" height="13" fill="#fafafa"/><rect x="1098" y="84" width="13" height="13" fill="#fafafa"/><rect x="958" y="98" width="13" height="13" fill="#fafafa"/><rect x="1014" y="98" width="13" height="13" fill="#fafafa"/><rect x="1042" y="98" width="13" height="13" fill="#fafafa"/><rect x="1098" y="98" width="13" height="13" fill="#fafafa"/><rect x="958" y="112" width="13" height="13" fill="#fafafa"/><rect x="972" y="112" width="13" height="13" fill="#fafafa"/><rect x="986" y="112" width="13" height="13" fill="#fafafa"/><rect x="1000" y="112" width="13" height="13" fill="#fafafa"/><rect x="1014" y="112" width="13" height="13" fill="#fafafa"/><rect x="1042" y="112" width="13" height="13" fill="#fafafa"/><rect x="1056" y="112" width="13" height="13" fill="#fafafa"/><rect x="1070" y="112" width="13" height="13" fill="#fafafa"/><rect x="1084" y="112" width="13" height="13" fill="#fafafa"/><rect x="958" y="126" width="13" height="13" fill="#fafafa"/><rect x="1014" y="126" width="13" height="13" fill="#fafafa"/><rect x="1042" y="126" width="13" height="13" fill="#fafafa"/><rect x="1070" y="126" width="13" height="13" fill="#fafafa"/><rect x="958" y="140" width="13" height="13" fill="#fafafa"/><rect x="1014" y="140" width="13" height="13" fill="#fafafa"/><rect x="1042" y="140" width="13" height="13" fill="#fafafa"/><rect x="1084" y="140" width="13" height="13" fill="#fafafa"/><rect x="958" y="154" width="13" height="13" fill="#fafafa"/><rect x="1014" y="154" width="13" height="13" fill="#fafafa"/><rect x="1042" y="154" width="13" height="13" fill="#fafafa"/><rect x="1098" y="154" width="13" height="13" fill="#fafafa"/><rect x="1098" y="168" width="13" height="13" fill="#ff0000"/><rect x="1112" y="168" width="13" height="13" fill="#ff0000"/><rect x="1098" y="182" width="13" height="13" fill="#ff0000"/><rect x="1112" y="182" width="13" height="13" fill="#ff0000"/>
+
+</svg>

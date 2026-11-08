@@ -1,45 +1,158 @@
-# Ashikur Rahman
+<a href="https://ashikurrahman.vercel.app">
+  <img src="assets/header.svg" width="100%" alt="Ashikur Rahman, full-stack TypeScript developer. Building Webflow apps at FlowAppz. Dhaka, Bangladesh." />
+</a>
 
-**Full-stack TypeScript developer.** I build the React screens people click and the Node.js services behind them, then write the tests that keep both working in production.
+<p align="center">
+  <a href="https://ashikurrahman.vercel.app"><img src="assets/badges/portfolio.svg" alt="Portfolio" /></a>
+  <a href="https://drive.google.com/file/d/1q0ArDo7pLpW2iXga6G-phQkT-8YSKoaP/view?usp=sharing"><img src="assets/badges/resume.svg" alt="Resume" /></a>
+  <a href="https://www.linkedin.com/in/ashikur-rahman-5b55a4276/"><img src="assets/badges/linkedin.svg" alt="LinkedIn" /></a>
+  <a href="mailto:ashikurrahmanbusiness111@gmail.com"><img src="assets/badges/email.svg" alt="Email" /></a>
+</p>
 
-Junior Full Stack JavaScript Developer at [FlowAppz](https://flowappz.com), building Webflow apps · Dhaka, Bangladesh (UTC+6)<br>
-**Open to full-time full-stack, backend or frontend roles.**
+<p align="center">
+  I build the React screens people click and the Node.js services behind them,<br />
+  then write the tests that keep both working in production.
+</p>
 
-[Portfolio](https://ashikurrahman.vercel.app) · [Resume](https://drive.google.com/file/d/1q0ArDo7pLpW2iXga6G-phQkT-8YSKoaP/view?usp=sharing) · [LinkedIn](https://www.linkedin.com/in/ashikur-rahman-5b55a4276/) · [Email](mailto:ashikurrahmanbusiness111@gmail.com)
+<p align="center"><img src="assets/badges/open.svg" alt="Open to full-time roles" /></p>
 
-## What I build at FlowAppz
+<br />
 
-Four Webflow apps in TypeScript monorepos: Express and Next.js APIs on PostgreSQL, Redis and BullMQ job queues, and React extensions that run inside the Webflow Designer. 300+ commits since May 2026.
+## 🟥 What I build at FlowAppz
 
-- **Scheduled CMS Publisher**: BullMQ jobs that survive a deploy, refresh-token rotation with reuse detection, per-site rate limits in Redis, and schedules that stay correct when a site changes time zone.
-- **Multistep Form** (top committer): rebuilt session auth, scoped every query to the caller's site, signed CDN releases with integrity hashes, and moved webhooks to the server.
-- **Advanced Search**: webhook-driven re-indexing on MeiliSearch that collapses a burst of edits into one job, ranking across collections, and licence checks.
-- **Memberflow**: Stripe webhooks and in-place plan upgrades, auth templates, and a closed open redirect.
+Junior Full Stack JavaScript Developer at [**FlowAppz**](https://flowappz.com) since Aug 2026 (intern from May). Four Webflow apps in TypeScript monorepos: Express and Next.js APIs on PostgreSQL, Redis and BullMQ job queues, and React extensions that run inside the Webflow Designer. **300+ commits.**
 
-The code is private. [My site](https://ashikurrahman.vercel.app/#quests) has more detail.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⏱ Scheduled CMS Publisher</h3>
+      <sub><code>Express</code> <code>Drizzle</code> <code>BullMQ</code> <code>Redis</code> <code>Playwright</code></sub>
+      <ul>
+        <li>BullMQ jobs that survive a deploy</li>
+        <li>Refresh-token rotation with reuse detection</li>
+        <li>Per-site rate limits in Redis</li>
+        <li>Schedules that stay correct when a site changes time zone</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 Multistep Form <sub>· top committer</sub></h3>
+      <sub><code>Express</code> <code>Prisma</code> <code>PostgreSQL</code> <code>React Query</code></sub>
+      <ul>
+        <li>Rebuilt session auth on every route</li>
+        <li>Every query scoped to the caller's site</li>
+        <li>Signed CDN releases with integrity hashes</li>
+        <li>Webhooks moved from the browser to the server</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔎 Advanced Search</h3>
+      <sub><code>Express</code> <code>MeiliSearch</code> <code>BullMQ</code> <code>Drizzle</code></sub>
+      <ul>
+        <li>Webhook-driven re-indexing</li>
+        <li>A burst of edits collapses into one job</li>
+        <li>Ranking across collections, licence checks</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💳 Memberflow</h3>
+      <sub><code>Next.js</code> <code>Prisma</code> <code>Stripe</code> <code>Resend</code></sub>
+      <ul>
+        <li>Stripe webhooks and in-place plan upgrades</li>
+        <li>Auth templates and 81 Webflow components</li>
+        <li>Closed an open redirect</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-## Projects you can read
+<sub>The code is private. <a href="https://ashikurrahman.vercel.app/#quests">My site</a> has more detail.</sub>
 
-| Project | What it shows | Stack |
-| --- | --- | --- |
-| [Personal Finance](https://github.com/The-BlackShadoww/personal-finance) · [live](https://bank-ar.vercel.app) | Multi-tenant money app: JWT with refresh cookies, Google OAuth, TOTP 2FA, CSP, money stored as integer minor units, unit-tested calculations. Built with Claude Code as my pair programmer. | NestJS, PostgreSQL, Drizzle, Next.js 15, TanStack Query |
-| [Event Calendar](https://github.com/The-BlackShadoww/event-calendar-app) | Delayed BullMQ jobs open and close each event on time, with retries and backoff. Postgres and Redis in one Docker Compose file. | NestJS, PostgreSQL, Drizzle, Redis, BullMQ, React |
-| [Clarix](https://github.com/The-BlackShadoww/clarix) · [live](https://clarix-six.vercel.app) | Infinite-canvas relation builder with SVG links that follow your drag | Next.js, TypeScript, Framer Motion |
-| [Plinth](https://github.com/The-BlackShadoww/landing) · [live](https://landing-beta-bice-47.vercel.app) | Concept landing page with isometric illustrations drawn in code and GSAP motion. Built with Claude Code in four days. | Next.js 16, Tailwind CSS v4, GSAP |
+<br />
 
-## Stack
+## 🟥 Projects you can read
 
-**Languages:** TypeScript, JavaScript<br>
-**Frontend:** React, Next.js, Tailwind CSS, TanStack Query, React Hook Form, Zod<br>
-**Backend:** Node.js, Express, NestJS, BullMQ, OAuth + JWT, Stripe, webhooks<br>
-**Data:** PostgreSQL, Drizzle, Prisma, Redis, MeiliSearch, MongoDB<br>
-**Testing:** Vitest, Playwright, Supertest<br>
-**Shipping:** Docker, Railway, Vercel, AWS S3
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/The-BlackShadoww/personal-finance"><img src="assets/projects/personal-finance.png" alt="Personal Finance dashboard" /></a>
+      <h3><a href="https://github.com/The-BlackShadoww/personal-finance">Personal Finance</a></h3>
+      Multi-tenant money app: JWT with refresh cookies, Google OAuth, TOTP 2FA, CSP, money stored as integer minor units, unit-tested calculations. Built with Claude Code as my pair programmer.
+      <br /><br />
+      <code>NestJS</code> <code>PostgreSQL</code> <code>Drizzle</code> <code>Next.js 15</code> <code>TanStack Query</code>
+      <br /><br />
+      <a href="https://bank-ar.vercel.app"><b>Live demo →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/The-BlackShadoww/event-calendar-app"><img src="assets/projects/event-calendar.svg" alt="Event Calendar job flow: PENDING to ACTIVE to COMPLETED" /></a>
+      <h3><a href="https://github.com/The-BlackShadoww/event-calendar-app">Event Calendar</a></h3>
+      Delayed BullMQ jobs open and close each event on time, with retries and backoff. Postgres and Redis in one Docker Compose file.
+      <br /><br />
+      <code>NestJS</code> <code>PostgreSQL</code> <code>Drizzle</code> <code>Redis</code> <code>BullMQ</code> <code>React</code>
+      <br /><br />
+      <a href="https://github.com/The-BlackShadoww/event-calendar-app"><b>Source →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/The-BlackShadoww/clarix"><img src="assets/projects/clarix.png" alt="Clarix landing page with a relation graph" /></a>
+      <h3><a href="https://github.com/The-BlackShadoww/clarix">Clarix</a></h3>
+      Infinite-canvas relation builder for networks, family trees and org charts, with SVG links that follow your drag.
+      <br /><br />
+      <code>Next.js</code> <code>TypeScript</code> <code>Framer Motion</code>
+      <br /><br />
+      <a href="https://clarix-six.vercel.app"><b>Live demo →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/The-BlackShadoww/landing"><img src="assets/projects/plinth.png" alt="Plinth landing page hero" /></a>
+      <h3><a href="https://github.com/The-BlackShadoww/landing">Plinth</a></h3>
+      Concept landing page with isometric illustrations drawn in code and GSAP motion. Built with Claude Code in four days.
+      <br /><br />
+      <code>Next.js 16</code> <code>Tailwind CSS v4</code> <code>GSAP</code>
+      <br /><br />
+      <a href="https://landing-beta-bice-47.vercel.app"><b>Live demo →</b></a>
+    </td>
+  </tr>
+</table>
 
-## Writing
+<br />
 
-- [Mastering Next.js caching: all four mechanisms](https://ashikurrahman.vercel.app/blog/mastering-nextjs-caching)
+## 🟥 Tech stack
 
-## Off the clock
+<table>
+  <tr>
+    <td width="130"><b>Frontend</b></td>
+    <td><img src="assets/stack/frontend.svg" height="44" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Vite" /><br /><img src="assets/badges/tanstack.svg" alt="TanStack Query" /> <img src="assets/badges/zod.svg" alt="Zod" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="assets/stack/backend.svg" height="44" alt="Node.js, Express, NestJS" /><br /><img src="assets/badges/bullmq.svg" alt="BullMQ" /> <img src="assets/badges/oauth.svg" alt="OAuth and JWT" /> <img src="assets/badges/stripe.svg" alt="Stripe" /> <img src="assets/badges/socketio.svg" alt="Socket.IO" /></td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td><img src="assets/stack/data.svg" height="44" alt="PostgreSQL, Redis, Prisma, MongoDB" /><br /><img src="assets/badges/drizzle.svg" alt="Drizzle" /> <img src="assets/badges/meilisearch.svg" alt="MeiliSearch" /></td>
+  </tr>
+  <tr>
+    <td><b>Testing &amp; shipping</b></td>
+    <td><img src="assets/stack/ship.svg" height="44" alt="Vitest, Jest, Docker, Vercel, AWS, Git, Figma" /><br /><img src="assets/badges/playwright.svg" alt="Playwright" /> <img src="assets/badges/railway.svg" alt="Railway" /></td>
+  </tr>
+</table>
+
+<br />
+
+## 🟥 Writing
+
+- [**Mastering Next.js caching:** all four mechanisms](https://ashikurrahman.vercel.app/blog/mastering-nextjs-caching)
+
+## 🟥 Off the clock
 
 I studied psychology at the University of Dhaka, which helps more than you'd expect when building for real users. Basketball when I'm away from the keyboard.
+
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/The-BlackShadoww/The-BlackShadoww/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/The-BlackShadoww/The-BlackShadoww/output/snake-light.svg" />
+  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/The-BlackShadoww/The-BlackShadoww/output/snake-dark.svg" width="100%" />
+</picture>

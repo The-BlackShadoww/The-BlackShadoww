@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900" role="img" aria-label="Event Calendar: an event moves from PENDING to ACTIVE to COMPLETED through delayed BullMQ jobs">
+<style>
+  .mono{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+  .sans{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}
+  .flow{stroke-dasharray:8 8;animation:dash 1.2s linear infinite}
+  @keyframes dash{to{stroke-dashoffset:-16}}
+  @media (prefers-reduced-motion: reduce){.flow{animation:none}}
+</style>
+<defs>
+  <pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#1f1f22"/></pattern>
+  <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0L10 5L0 10z" fill="#ff0000"/></marker>
+</defs>
+<rect width="1440" height="900" fill="#000"/><rect width="1440" height="900" fill="url(#g)"/>
+<rect x="96" y="96" width="14" height="14" fill="#ff0000"/>
+<text x="122" y="109" class="mono" font-size="20" fill="#a6a6af">event-calendar-app</text>
+<text x="96" y="190" class="sans" font-size="72" font-weight="700" fill="#fafafa" letter-spacing="-1.5">Event Calendar</text>
+<text x="96" y="244" class="sans" font-size="30" fill="#a6a6af">Events that open and close themselves on time.</text>
+<g class="mono" font-size="26" font-weight="700" text-anchor="middle">
+  <rect x="96" y="380" width="300" height="110" rx="10" fill="#0b0b0c" stroke="#2f2f2f" stroke-width="2"/>
+  <text x="246" y="445" fill="#a6a6af">PENDING</text>
+  <rect x="570" y="380" width="300" height="110" rx="10" fill="#0b0b0c" stroke="#ff0000" stroke-width="2"/>
+  <text x="720" y="445" fill="#fafafa">ACTIVE</text>
+  <rect x="1044" y="380" width="300" height="110" rx="10" fill="#0b0b0c" stroke="#22c55e" stroke-width="2"/>
+  <text x="1194" y="445" fill="#22c55e">COMPLETED</text>
+</g>
+<g stroke="#ff0000" stroke-width="3" fill="none" marker-end="url(#a)">
+  <path class="flow" d="M400 435H562"/><path class="flow" d="M874 435H1036"/>
+</g>
+<g class="mono" font-size="19" fill="#fafafa" text-anchor="middle">
+  <text x="483" y="410">activate-event</text><text x="957" y="410">complete-event</text>
+</g>
+<g class="mono" font-size="16" fill="#a6a6af" text-anchor="middle">
+  <text x="483" y="470">delay → start time</text><text x="957" y="470">retries · backoff</text>
+</g>
+<line x1="96" y1="600" x2="1344" y2="600" stroke="#1f1f22" stroke-width="2"/>
+<g class="mono" font-size="22">
+  <text x="96" y="670" fill="#ff0000">●</text><text x="126" y="670" fill="#fafafa">NestJS API</text>
+  <text x="400" y="670" fill="#ff0000">●</text><text x="430" y="670" fill="#fafafa">BullMQ + Redis</text>
+  <text x="760" y="670" fill="#ff0000">●</text><text x="790" y="670" fill="#fafafa">PostgreSQL + Drizzle</text>
+  <text x="1150" y="670" fill="#ff0000">●</text><text x="1180" y="670" fill="#fafafa">React</text>
+</g>
+<text x="96" y="760" class="sans" font-size="24" fill="#a6a6af">One delayed job per transition · deterministic job IDs · status CHECK constraint in Postgres</text>
+</svg>
