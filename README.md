@@ -134,8 +134,12 @@ Junior Full Stack JavaScript Developer at [**FlowAppz**](https://flowappz.com) s
     <td><img src="assets/stack/data.svg" alt="PostgreSQL, Redis, Prisma, Drizzle, MongoDB, MeiliSearch" /></td>
   </tr>
   <tr>
-    <td><b>Testing &amp; shipping</b></td>
-    <td><img src="assets/stack/ship.svg" alt="Vitest, Jest, Playwright, Docker, Vercel, Railway, AWS, Git, Figma" /></td>
+    <td><b>Testing</b></td>
+    <td><img src="assets/stack/testing.svg" alt="Vitest, Jest, Playwright" /></td>
+  </tr>
+  <tr>
+    <td><b>Shipping</b></td>
+    <td><img src="assets/stack/ship.svg" alt="Docker, Vercel, Railway, AWS, Git, Figma" /></td>
   </tr>
 </table>
 
