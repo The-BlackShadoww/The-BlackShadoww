@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  I build web products end to end, from the interface people see to the systems behind it. </b>
+  I build web products end to end, from the interface people see to the systems behind it. </br>
   Fast. Secure. Reliable.
 </p>
 
