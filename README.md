@@ -123,27 +123,23 @@ Junior Full Stack JavaScript Developer at [**FlowAppz**](https://flowappz.com) s
 <table>
   <tr>
     <td width="130"><b>Frontend</b></td>
-    <td><img src="assets/stack/frontend.svg" height="44" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Vite" /><br /><img src="assets/badges/tanstack.svg" alt="TanStack Query" /> <img src="assets/badges/zod.svg" alt="Zod" /></td>
+    <td><img src="assets/stack/frontend.svg" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Vite, TanStack Query, Zod" /></td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
-    <td><img src="assets/stack/backend.svg" height="44" alt="Node.js, Express, NestJS" /><br /><img src="assets/badges/bullmq.svg" alt="BullMQ" /> <img src="assets/badges/oauth.svg" alt="OAuth and JWT" /> <img src="assets/badges/stripe.svg" alt="Stripe" /> <img src="assets/badges/socketio.svg" alt="Socket.IO" /></td>
+    <td><img src="assets/stack/backend.svg" alt="Node.js, Express, NestJS, BullMQ, Socket.IO, OAuth and JWT, Stripe" /></td>
   </tr>
   <tr>
     <td><b>Data</b></td>
-    <td><img src="assets/stack/data.svg" height="44" alt="PostgreSQL, Redis, Prisma, MongoDB" /><br /><img src="assets/badges/drizzle.svg" alt="Drizzle" /> <img src="assets/badges/meilisearch.svg" alt="MeiliSearch" /></td>
+    <td><img src="assets/stack/data.svg" alt="PostgreSQL, Redis, Prisma, Drizzle, MongoDB, MeiliSearch" /></td>
   </tr>
   <tr>
     <td><b>Testing &amp; shipping</b></td>
-    <td><img src="assets/stack/ship.svg" height="44" alt="Vitest, Jest, Docker, Vercel, AWS, Git, Figma" /><br /><img src="assets/badges/playwright.svg" alt="Playwright" /> <img src="assets/badges/railway.svg" alt="Railway" /></td>
+    <td><img src="assets/stack/ship.svg" alt="Vitest, Jest, Playwright, Docker, Vercel, Railway, AWS, Git, Figma" /></td>
   </tr>
 </table>
 
 <br />
-
-## 🟥 Writing
-
-- [**Mastering Next.js caching:** all four mechanisms](https://ashikurrahman.vercel.app/blog/mastering-nextjs-caching)
 
 ## 🟥 Off the clock
 
