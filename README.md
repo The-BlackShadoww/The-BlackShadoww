@@ -139,7 +139,7 @@ Junior Full Stack JavaScript Developer at [**FlowAppz**](https://flowappz.com) s
   </tr>
   <tr>
     <td><b>Shipping</b></td>
-    <td><img src="assets/stack/ship.svg" alt="Docker, Vercel, Railway, AWS, Git, Figma" /></td>
+    <td><img src="assets/stack/shipping.svg" alt="Docker, Vercel, Railway, AWS, Git, Figma" /></td>
   </tr>
 </table>
 
