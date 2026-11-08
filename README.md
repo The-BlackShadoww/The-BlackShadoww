@@ -10,8 +10,7 @@
 </p>
 
 <p align="center">
-  I build the React screens people click and the Node.js services behind them,<br />
-  then write the tests that keep both working in production.
+  I build the React screens people click and the Node.js services behind them
 </p>
 
 <p align="center"><img src="assets/badges/open.svg" alt="Open to full-time roles" /></p>
