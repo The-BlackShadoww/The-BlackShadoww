@@ -1,111 +1,45 @@
-<img width="1029" height="440" alt="dark_mode" src="https://github.com/user-attachments/assets/380c6bfe-fe01-4356-aae8-f355bc6f4893" />
+# Ashikur Rahman
 
+**Full-stack TypeScript developer.** I build the React screens people click and the Node.js services behind them, then write the tests that keep both working in production.
 
-<div align="center">
+Junior Full Stack JavaScript Developer at [FlowAppz](https://flowappz.com), building Webflow apps · Dhaka, Bangladesh (UTC+6)<br>
+**Open to full-time full-stack, backend or frontend roles.**
 
-# Hey, I'm Ashikur Rahman 👋
-### Front-End Developer · React & Next.js · Building Web Experiences That Actually Matter
+[Portfolio](https://ashikurrahman.vercel.app) · [Resume](https://drive.google.com/file/d/1q0ArDo7pLpW2iXga6G-phQkT-8YSKoaP/view?usp=sharing) · [LinkedIn](https://www.linkedin.com/in/ashikur-rahman-5b55a4276/) · [Email](mailto:ashikurrahmanbusiness111@gmail.com)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ashikurrahman.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashikur-rahman-5b55a4276/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rahman_jebal111)
+## What I build at FlowAppz
 
-</div>
+Four Webflow apps in TypeScript monorepos: Express and Next.js APIs on PostgreSQL, Redis and BullMQ job queues, and React extensions that run inside the Webflow Designer. 300+ commits since May 2026.
 
----
+- **Scheduled CMS Publisher**: BullMQ jobs that survive a deploy, refresh-token rotation with reuse detection, per-site rate limits in Redis, and schedules that stay correct when a site changes time zone.
+- **Multistep Form** (top committer): rebuilt session auth, scoped every query to the caller's site, signed CDN releases with integrity hashes, and moved webhooks to the server.
+- **Advanced Search**: webhook-driven re-indexing on MeiliSearch that collapses a burst of edits into one job, ranking across collections, and licence checks.
+- **Memberflow**: Stripe webhooks and in-place plan upgrades, auth templates, and a closed open redirect.
 
-## Who I Am
+The code is private. [My site](https://ashikurrahman.vercel.app/#quests) has more detail.
 
-I am a React/Next.js Front-end developer, building complete front-ends from the ground up with React and Next.js — from design to fast, scalable, and production-ready web experiences, and helping people build products that actually make a difference.
+## Projects you can read
 
-I Studied Psychology at the University of Dhaka. Turns out understanding how humans think makes you a significantly better developer.
+| Project | What it shows | Stack |
+| --- | --- | --- |
+| [Personal Finance](https://github.com/The-BlackShadoww/personal-finance) · [live](https://bank-ar.vercel.app) | Multi-tenant money app: JWT with refresh cookies, Google OAuth, TOTP 2FA, CSP, money stored as integer minor units, unit-tested calculations. Built with Claude Code as my pair programmer. | NestJS, PostgreSQL, Drizzle, Next.js 15, TanStack Query |
+| [Event Calendar](https://github.com/The-BlackShadoww/event-calendar-app) · [live](https://event-calendar-app-sand.vercel.app) | Delayed BullMQ jobs open and close each event on time, with retries and backoff. Postgres and Redis in one Docker Compose file. | NestJS, PostgreSQL, Drizzle, Redis, BullMQ, React |
+| [Clarix](https://github.com/The-BlackShadoww/clarix) · [live](https://clarix-six.vercel.app) | Infinite-canvas relation builder with SVG links that follow your drag | Next.js, TypeScript, Framer Motion |
+| [Plinth](https://github.com/The-BlackShadoww/landing) · [live](https://landing-beta-bice-47.vercel.app) | Concept landing page with isometric illustrations drawn in code and GSAP motion. Built with Claude Code in four days. | Next.js 16, Tailwind CSS v4, GSAP |
 
-I've shipped real websites and landing pages for clients across **Textile, Real Estate, AI SaaS, and Enterprise Web Apps** — handling everything from pixel-perfect UI to full client-side API integration.
+## Stack
 
----
+**Languages:** TypeScript, JavaScript<br>
+**Frontend:** React, Next.js, Tailwind CSS, TanStack Query, React Hook Form, Zod<br>
+**Backend:** Node.js, Express, NestJS, BullMQ, OAuth + JWT, Stripe, webhooks<br>
+**Data:** PostgreSQL, Drizzle, Prisma, Redis, MeiliSearch, MongoDB<br>
+**Testing:** Vitest, Playwright, Supertest<br>
+**Shipping:** Docker, Railway, Vercel, AWS S3
 
-## What I Do
+## Writing
 
-```
-✦ Build complete front-ends with React & Next.js — not just convert Figma files
-✦ Turn complex UI challenges into clean, scalable interfaces
-✦ Integrate APIs and wire up full client-side functionality
-✦ Ship full-stack websites with Node.js · Express · MongoDB
-✦ Optimize performance so your users actually stick around
-```
+- [Mastering Next.js caching: all four mechanisms](https://ashikurrahman.vercel.app/blog/mastering-nextjs-caching)
 
----
+## Off the clock
 
-## My Tech Stack
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Shadcn UI](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools & Deployment**
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=The-BlackShadoww&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=The-BlackShadoww&theme=merko&hide_border=true)
-
-
-</div>
-
----
-
-## What I'm Up To
-
-- 🚀 Shipping client projects in React & Next.js
-- 📖 Going deeper into TypeScript & advanced Next.js patterns
-- 🏀 Playing basketball & reading psychology books when I'm not coding
-- 👀 **Open to Front-End Developer roles** — let's talk
-
----
-
-## Let's Connect
-
-Got a project? An opportunity? Or just want to talk front-end? I'm always down.
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://ashikurrahman.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashikur-rahman-5b55a4276/)
-[![Twitter](https://img.shields.io/badge/Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rahman_jebal111)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=The-BlackShadoww&color=0e9c6e&style=flat-square&label=Profile+Views" />
-</div>
+I studied psychology at the University of Dhaka, which helps more than you'd expect when building for real users. Basketball when I'm away from the keyboard.
