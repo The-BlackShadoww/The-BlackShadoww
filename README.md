@@ -10,7 +10,8 @@
 </p>
 
 <p align="center">
-  I build web products end to end, from the interface people see to the systems behind it.
+  I build web products end to end, from the interface people see to the systems behind it. </b>
+  Fast. Secure. Reliable.
 </p>
 
 <p align="center"><img src="assets/badges/open.svg" alt="Open to full-time roles" /></p>
