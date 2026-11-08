@@ -71,53 +71,6 @@ Junior Full Stack JavaScript Developer at [**FlowAppz**](https://flowappz.com) s
 
 <br />
 
-## 🟥 Projects you can read
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/The-BlackShadoww/personal-finance"><img src="assets/projects/personal-finance.png" alt="Personal Finance dashboard" /></a>
-      <h3><a href="https://github.com/The-BlackShadoww/personal-finance">Personal Finance</a></h3>
-      Multi-tenant money app: JWT with refresh cookies, Google OAuth, TOTP 2FA, CSP, money stored as integer minor units, unit-tested calculations. Built with Claude Code as my pair programmer.
-      <br /><br />
-      <code>NestJS</code> <code>PostgreSQL</code> <code>Drizzle</code> <code>Next.js 15</code> <code>TanStack Query</code>
-      <br /><br />
-      <a href="https://bank-ar.vercel.app"><b>Live demo →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/The-BlackShadoww/event-calendar-app"><img src="assets/projects/event-calendar.svg" alt="Event Calendar job flow: PENDING to ACTIVE to COMPLETED" /></a>
-      <h3><a href="https://github.com/The-BlackShadoww/event-calendar-app">Event Calendar</a></h3>
-      Delayed BullMQ jobs open and close each event on time, with retries and backoff. Postgres and Redis in one Docker Compose file.
-      <br /><br />
-      <code>NestJS</code> <code>PostgreSQL</code> <code>Drizzle</code> <code>Redis</code> <code>BullMQ</code> <code>React</code>
-      <br /><br />
-      <a href="https://github.com/The-BlackShadoww/event-calendar-app"><b>Source →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/The-BlackShadoww/clarix"><img src="assets/projects/clarix.png" alt="Clarix landing page with a relation graph" /></a>
-      <h3><a href="https://github.com/The-BlackShadoww/clarix">Clarix</a></h3>
-      Infinite-canvas relation builder for networks, family trees and org charts, with SVG links that follow your drag.
-      <br /><br />
-      <code>Next.js</code> <code>TypeScript</code> <code>Framer Motion</code>
-      <br /><br />
-      <a href="https://clarix-six.vercel.app"><b>Live demo →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/The-BlackShadoww/landing"><img src="assets/projects/plinth.png" alt="Plinth landing page hero" /></a>
-      <h3><a href="https://github.com/The-BlackShadoww/landing">Plinth</a></h3>
-      Concept landing page with isometric illustrations drawn in code and GSAP motion. Built with Claude Code in four days.
-      <br /><br />
-      <code>Next.js 16</code> <code>Tailwind CSS v4</code> <code>GSAP</code>
-      <br /><br />
-      <a href="https://landing-beta-bice-47.vercel.app"><b>Live demo →</b></a>
-    </td>
-  </tr>
-</table>
-
-<br />
-
 ## 🟥 Tech stack
 
 <table>
