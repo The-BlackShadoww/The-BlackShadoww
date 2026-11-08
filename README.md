@@ -14,7 +14,6 @@
   Fast. Secure. Reliable.
 </p>
 
-<p align="center"><img src="assets/badges/open.svg" alt="Open to full-time roles" /></p>
 
 <br />
 
@@ -127,7 +126,9 @@ Junior Full Stack JavaScript Developer at [**FlowAppz**](https://flowappz.com) s
 
 ## 🟥 Off the clock
 
-I studied psychology at the University of Dhaka, which helps more than you'd expect when building for real users. Basketball when I'm away from the keyboard.
+I'm doing a master's in psychology at the University of Dhaka. It helps more than you'd expect when building for real users.
+
+Away from studying and coding, I play basketball, watch movies, read books and travel.
 
 <br />
 
