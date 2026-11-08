@@ -23,7 +23,7 @@ The code is private. [My site](https://ashikurrahman.vercel.app/#quests) has mor
 | Project | What it shows | Stack |
 | --- | --- | --- |
 | [Personal Finance](https://github.com/The-BlackShadoww/personal-finance) · [live](https://bank-ar.vercel.app) | Multi-tenant money app: JWT with refresh cookies, Google OAuth, TOTP 2FA, CSP, money stored as integer minor units, unit-tested calculations. Built with Claude Code as my pair programmer. | NestJS, PostgreSQL, Drizzle, Next.js 15, TanStack Query |
-| [Event Calendar](https://github.com/The-BlackShadoww/event-calendar-app) · [live](https://event-calendar-app-sand.vercel.app) | Delayed BullMQ jobs open and close each event on time, with retries and backoff. Postgres and Redis in one Docker Compose file. | NestJS, PostgreSQL, Drizzle, Redis, BullMQ, React |
+| [Event Calendar](https://github.com/The-BlackShadoww/event-calendar-app) | Delayed BullMQ jobs open and close each event on time, with retries and backoff. Postgres and Redis in one Docker Compose file. | NestJS, PostgreSQL, Drizzle, Redis, BullMQ, React |
 | [Clarix](https://github.com/The-BlackShadoww/clarix) · [live](https://clarix-six.vercel.app) | Infinite-canvas relation builder with SVG links that follow your drag | Next.js, TypeScript, Framer Motion |
 | [Plinth](https://github.com/The-BlackShadoww/landing) · [live](https://landing-beta-bice-47.vercel.app) | Concept landing page with isometric illustrations drawn in code and GSAP motion. Built with Claude Code in four days. | Next.js 16, Tailwind CSS v4, GSAP |
 
