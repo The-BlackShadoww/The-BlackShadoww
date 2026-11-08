@@ -71,6 +71,33 @@ Junior Full Stack JavaScript Developer at [**FlowAppz**](https://flowappz.com) s
 
 <br />
 
+## 🟥 Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/The-BlackShadoww/personal-finance"><img src="assets/work/personal-finance-app.png" alt="Personal Finance dashboard" /></a>
+      <h3><a href="https://github.com/The-BlackShadoww/personal-finance">Personal Finance</a> <sub>· personal project</sub></h3>
+      Multi-tenant money app: JWT with refresh cookies, Google OAuth, TOTP 2FA, CSP, money stored as integer minor units, unit-tested calculations. Built with Claude Code as my pair programmer.
+      <br /><br />
+      <code>NestJS</code> <code>PostgreSQL</code> <code>Drizzle</code> <code>Next.js 15</code> <code>TanStack Query</code>
+      <br /><br />
+      <a href="https://bank-ar.vercel.app"><b>Live demo →</b></a> &nbsp; <a href="https://github.com/The-BlackShadoww/personal-finance"><b>Source →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://www.sundrywears.com/"><img src="assets/work/sundry-wears.png" alt="Sundry Wears website home page" /></a>
+      <h3><a href="https://www.sundrywears.com/">Sundry Wears</a> <sub>· freelance client</sub></h3>
+      Full-stack site for a garment manufacturer, built solo in a month: a Next.js frontend, an Express + MongoDB admin panel so their team manages content without a developer, and the REST API between them.
+      <br /><br />
+      <code>Next.js</code> <code>TypeScript</code> <code>Express</code> <code>MongoDB</code> <code>Cloudinary</code>
+      <br /><br />
+      <a href="https://www.sundrywears.com/"><b>Live site →</b></a> &nbsp; <a href="https://ashikurrahman.vercel.app/projects/sundry-wears"><b>Case study →</b></a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
 ## 🟥 Tech stack
 
 <table>
