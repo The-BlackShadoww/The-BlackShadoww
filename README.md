@@ -19,7 +19,7 @@
 
 ## 🟥 What I build at FlowAppz
 
-Junior Full Stack JavaScript Developer at [**FlowAppz**](https://flowappz.com) since Aug 2026 (intern from May). Four Webflow apps in TypeScript monorepos: Express and Next.js APIs on PostgreSQL, Redis and BullMQ job queues, and React extensions that run inside the Webflow Designer. **300+ commits.**
+Junior Full Stack JavaScript Developer at [**FlowAppz**](https://flowappz.com) since Aug 2026 (intern from May). Five Webflow apps in TypeScript monorepos: Express and Next.js APIs on PostgreSQL, Redis and BullMQ job queues, and React extensions that run inside the Webflow Designer. **300+ commits.**
 
 <table>
   <tr>
